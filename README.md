@@ -1,4 +1,4 @@
-# useful_tutorials
+# Useful tutorials
 
 Simple code Andy found useful for solar / heliophysics work—mostly notebooks and small snippets.
 
